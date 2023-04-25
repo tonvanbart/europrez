@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <p>Hello, world!</p>
+        {{ range first 10 .Site.RegularPages -}}
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date }}</h3>
+            {{ .Description }}
+        {{- end }}
+        <hr>
     </body>
 </html>
