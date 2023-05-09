@@ -1,0 +1,114 @@
+@CHARSET "UTF-8";
+html, body {
+	/*
+	height: 100%;
+	*/
+}
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 80%;
+	/* background-image:  url("images/europrez2.gif"); */
+	background-image:  url('images/europrez-corner.gif'); 
+	background-attachment: fixed;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	background-color: #ffe;
+}
+
+.gap-right {
+    margin-right: 5px;
+}
+
+#container {
+	/*
+	border: 1px dotted red;
+	*/ 
+	width: 900px;
+}	
+#nav {
+	/*
+	border: 1px dotted green;
+	*/
+	vertical-align: top;
+	width: 180px;
+	float: left;
+	text-align: right;
+	padding: 1em;
+	padding-top: 0;
+}
+#nav ul {
+	list-style-type: none;
+}
+#content {
+	/*
+	border: 1px dotted blue;
+	*/
+	padding-left: 230px;
+	background-color: #ffe;
+}
+.imgright {
+	vertical-align: top;
+	float: right;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+/* form styles */
+label {
+	float: left;
+	margin-right: 0.5em;
+	text-align: right;
+	width: 30%;
+}
+.error {
+	padding-left: 1em;
+	color: red;
+	font-size: 80%;
+}
+
+/* participants table on form page */
+}
+table#participants {
+	/*
+	*/
+	width: 550px;
+	border: 1px solid #999;
+}
+table#participants tr td {
+	border: 1px solid #999;
+	padding: 5px 1em 5px 1em;
+}
+
+/* ep18shirts */
+				tr.tblhead td {
+					background-color: #ccc; font-weight: bold;
+				}
+				tr.tbldetail td {
+					background-color: #ccc; font-size: smaller;
+				}
+				table tr.head td {
+					border-bottom: 1px solid black;
+				}
+				table.orders td {
+					width: 100px;
+				}
+				table.orders td.name {
+					width: 50%;
+				}
+
+/* end ep18shirts */
+
+/* flickr scrapbook styles */
+.flickr_badge_image {margin:0 10px 10px 10px; float:left; }
+.flickr_badge_image a { border: none; float: left;}
+.flickr_badge_image a img { border: none; float: left;}
+#flickr_badge_source {text-align:left; margin:0 10px 0 10px;}
+#flickr_badge_icon {float:left; margin-right:5px;}
+#flickr_www {display:inline;  color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr img { float:left; }

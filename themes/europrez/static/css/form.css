@@ -1,0 +1,58 @@
+body.backgrounded {
+    background-image:  url('images/europrez-corner.gif') !important;
+    background-attachment: fixed !important;
+    background-position: bottom right !important;
+    background-repeat: no-repeat !important;
+}
+
+.jumbotron {
+    background-image: url('images/bmw-forest.jpg');
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 40%;
+    opacity: 50;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.jumbotron-signup {
+    background-image: url('images/taunus-bike.jpg');
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 45%;
+    opacity: 50;
+}
+
+.row .form-group label, .row .form-group input {
+    display: inline-block;
+}
+
+.row .form-group input {
+    /*width: 50%;*/
+    text-align: left;
+}
+
+button {
+    margin: 25px;
+}
+
+.jumbotron a {
+    color: #ffffff;
+    font-style: italic;
+}
+
+/* flickr scrapbook styles */
+.flickr_badge_image {margin:0 10px 10px 10px; float:left; }
+.flickr_badge_image a { border: none; float: left;}
+.flickr_badge_image a img { border: none; float: left;}
+#flickr_badge_source {text-align:left; margin:0 10px 0 10px;}
+#flickr_badge_icon {float:left; margin-right:5px;}
+#flickr_www {display:inline;  color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
+#flickr_badge_wrapper {}
+#flickr img { float:left; }
