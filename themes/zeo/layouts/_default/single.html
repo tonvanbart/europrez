@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ .Title }}</title>
+    </head>
+    <body>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+        <hr>
+        <pre>
+            .Type: {{ .Type }}
+            .BundleType: {{ .BundleType }}
+            .Draft: {{ .Draft }}
+            .File.Ext: {{ .File.Ext }}
+            .Kind: {{ .Kind }}
+            .File.BaseFileName: {{ .File.BaseFileName }}
+        </pre>
+    </body>
+</html>
