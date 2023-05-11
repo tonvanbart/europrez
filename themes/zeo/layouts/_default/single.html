@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>{{ .Title }}</title>
-    </head>
-    <body>
+        {{ define "main" }}
         <h1>{{ .Title }}</h1>
         template <code>single.html</code><br>
         {{ partial "header.html" . }}
@@ -17,5 +12,4 @@
             .Kind: {{ .Kind }}
             .File.BaseFileName: {{ .File.BaseFileName }}
         </pre>
-    </body>
-</html>
+        {{ end }}
