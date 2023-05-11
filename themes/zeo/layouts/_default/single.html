@@ -6,7 +6,7 @@
     <body>
         <h1>{{ .Title }}</h1>
         template <code>single.html</code><br>
-        {{ partial "header.html" }}
+        {{ partial "header.html" . }}
         {{ .Content }}
         <hr>
         <pre>

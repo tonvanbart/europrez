@@ -2,7 +2,7 @@
 <ul>
     {{ $currentpage := . }}
     {{ range site.Menus.main }}
-    <li><a {{ if $currentpage.IsMenuCurrent "main" . }}class="active"{{ end }} href="{{ .PageRef }}">{{ .Name }} (from Menus.main)</a></li>
+    <li><a {{ if $currentpage.IsMenuCurrent "main" . }}class="active"{{ end }} href="{{ .URL }}">{{ .Name }} (from Menus.main)</a></li>
     {{ end }}
 </ul>
 <code>end header.html</code>

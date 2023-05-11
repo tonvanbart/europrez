@@ -13,4 +13,4 @@ menu:
     - name: Home
       pageRef: / 
     - name: News
-      pageRef: /news
+      pageRef: /News
