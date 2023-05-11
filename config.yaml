@@ -8,4 +8,9 @@ languages:
         weight: 1
 MetaDataFormat: "yaml"
 theme: "zeo"
-
+menu:
+    main:
+    - name: Home
+      pageRef: / 
+    - name: News
+      pageRef: /news
