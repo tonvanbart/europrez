@@ -5,7 +5,7 @@ date: 2023-04-26T22:56:54+02:00
 draft: false
 ---
 {{< rawhtml >}}
-<img src="/images/switzer1.jpg" class="img-responsive pull-left gap-right" style="padding-right: 1em;" />
+<img src="images/switzer1.jpg" class="img-responsive pull-left gap-right" style="padding-right: 1em;" />
 {{</ rawhtml >}}
 Welcome to the homepage of the Europrez mailinglist!
 
