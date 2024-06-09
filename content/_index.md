@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "About this site"
+description: "Welcome to Europrez!"
 date: 2023-04-26T22:56:54+02:00
 draft: true
 ---
@@ -8,10 +8,6 @@ draft: true
 <img src="/images/switzer1.jpg" class="img-responsive pull-left gap-right" style="padding-right: 1em;" />
 {{</ rawhtml >}}
 Welcome to the homepage of the Europrez mailinglist!
-
-```
-This came from _index.md
-```
 
 The "europrez" email list was founded in the fall of 1996 as a number of (mostly) European subscribers to the [Internet BMW Riders](http://www.ibmwr.org) mailinglist sought a place to chat, away from the high traffic on the IBMWR list. As the name suggests, IBMWR is a mailinglist about owning, riding and maintaining BMW motorcycles with (to keep mail volumes down) fairly strict content policies. Europrez is a lot less formal and in fact most of the posts are hardly BMW-related at all. Almost all members do own motorcycles, however.
 

@@ -7,10 +7,14 @@ languages:
         languageName: English
         weight: 1
 MetaDataFormat: "yaml"
-theme: "zeo"
+theme: "europrez"
 menu:
     main:
     - name: Home
       pageRef: / 
     - name: News
       pageRef: /News
+      title: Latest news
+    - name: Past events
+      pageRef: /Past
+      
