@@ -2,6 +2,7 @@
 title: "EP27 Is Coming"
 date: 2023-05-12T00:38:31+02:00
 Description: "EP27 is coming!"
+draft: true
 ---
 <!-- ![image](/images/hotel-paviljoen.jpg) -->
 {{< rawhtml >}}

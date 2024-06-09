@@ -2,7 +2,7 @@
 title: "About"
 description: "Welcome to Europrez!"
 date: 2023-04-26T22:56:54+02:00
-draft: true
+draft: false
 ---
 {{< rawhtml >}}
 <img src="/images/switzer1.jpg" class="img-responsive pull-left gap-right" style="padding-right: 1em;" />

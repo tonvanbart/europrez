@@ -2,7 +2,7 @@
 title: "Past Events"
 date: 2023-05-15T21:20:18+02:00
 description: "Past Events"
-draft: true
+draft: false
 ---
 ### The Smelly Socks Tour
 Every year since 1996, members of the Europrez email list have had an in-person "EP" meeting.
@@ -18,7 +18,7 @@ EP12 was in the Dolomites (Italy, 2007); there is a [web album](http://www.mijna
 EP18 took place in Friuli (Italy, 2013); EP19 in Ryn (Poland, 2014); EP20 went back to the EP10 site in Buellingen (Ardennes, 2015).  
 The Smelly Socks Tour continued to Hay-on-Wye (EP21, 2016, UK); Heiligenstadt (EP22, 2017, Germany); Cuneo (EP23, 2018, Italy); Boppard (EP24, 2019, Germany) and - slimmed down due to the COVID pandemic - Moena (EP25, 2020, Italy).
 
-Sadly, again due to the pandemic there was no EP at all in 2021; in 2022 EP26 was held in Hallenberg, Germany.
+Sadly, again due to the pandemic there was no EP at all in 2021; in 2022 EP26 was held in Hallenberg, Germany. The 2023 EP27 edition was in Rhenen, the Netherlands.
 
 See [News](/news) for information about upcoming events.
 
