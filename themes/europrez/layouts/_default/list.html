@@ -2,17 +2,20 @@
 <!-- list.html -->
 <!-- <div class="media"> -->
 
-{{ range first 10 .Data.Pages}}
-{{ if eq .Type "news" }}
-<div class="row">
-    <div class="col-md-12">
-    <h3>{{ .Description }}</h3>
-    <h5>{{ .Date.Format "2 Jan 2006" }}</h5>
-    {{ .Content }}
-</div>
-</div>
-{{ end }}
-{{ end }}
+    <div class="media">
+
+        {{ range first 10 .Data.Pages}}
+        {{ if eq .Type "news" }}
+        <div class="row">
+            <div class="col-md-12">
+                <h3>{{ .Description }}</h3>
+                <h5>{{ .Date.Format "2 Jan 2006" }}</h5>
+                {{ .Content }}
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
 
 <!-- </div> -->
 {{ end }}
