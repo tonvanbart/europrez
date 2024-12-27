@@ -1,8 +1,0 @@
-<code>header.html content</code>
-<ul>
-    {{ $currentpage := . }}
-    {{ range site.Menus.main }}
-    <li><a {{ if $currentpage.IsMenuCurrent "main" . }}class="active"{{ end }} href="{{ .URL }}">{{ .Name }} (from Menus.main)</a></li>
-    {{ end }}
-</ul>
-<code>end header.html</code>

@@ -1,5 +1,5 @@
-baseURL: https://tonvanbart.github.io/learn-hugo-templating/
-title: "My First Zeo Blog"
+baseURL: https://tonvanbart.github.io/europrez
+title: "europrez"
 defaultContentLanguage: en
 languages:
     en:
