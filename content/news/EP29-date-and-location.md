@@ -2,7 +2,7 @@
 title: "EP29 Date and Location"
 date: 2025-01-13T21:32:08+01:00
 Description: "EP29, date and location"
-draft: true
+draft: false
 ---
 The date for EP29 is set to June 26 to 29, 2025 and the EP will be located in Regensburg, Germany. 
 {{<line_break>}}
