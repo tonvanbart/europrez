@@ -19,6 +19,8 @@ EP18 took place in Friuli (Italy, 2013); EP19 in Ryn (Poland, 2014); EP20 went b
 The Smelly Socks Tour continued to Hay-on-Wye (EP21, 2016, UK); Heiligenstadt (EP22, 2017, Germany); Cuneo (EP23, 2018, Italy); Boppard (EP24, 2019, Germany) and - slimmed down due to the COVID pandemic - Moena (EP25, 2020, Italy).
 
 Sadly, again due to the pandemic there was no EP at all in 2021; in 2022 EP26 was held in Hallenberg, Germany. The 2023 EP27 edition was in Rhenen, the Netherlands.
+{{<line_break>}}
+EP28 (2024) was held in Schweigen-Rechtenbach, in the Vosges-Pfalzerwald border area.
 
 See [News](/news) for information about upcoming events.
 
