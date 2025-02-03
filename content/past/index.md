@@ -5,6 +5,11 @@ description: "Past Events"
 draft: false
 ---
 ### The Smelly Socks Tour
+
+{{< rawhtml >}}
+<img src="epgroup.jpg" class="img-responsive pull-right gap-left" style="padding-right: 1em;" />
+{{</ rawhtml >}}
+
 Every year since 1996, members of the Europrez email list have had an in-person "EP" meeting.
 Meetings are organized by a volunteer (sort of...) list member who will normally find a 
 hotel and plan some routes in a nice area in their home country. 
