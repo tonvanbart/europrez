@@ -12,9 +12,15 @@ menu:
     main:
     - name: Home
       pageRef: / 
+      weight: 10
     - name: News
       pageRef: /News
       title: Latest news
+      weight: 20
     - name: Past events
       pageRef: /Past
+      weight: 30
+    - name: EP29 signup
+      pageRef: /Signup
+      weight: 40
       

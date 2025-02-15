@@ -11,15 +11,10 @@
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
                 {{- $currentpage := . -}}
-                {{- range site.Menus.main }}
+                {{- range site.Menus.main.ByWeight }}
                 <li {{- if $currentpage.IsMenuCurrent "main" . }} class="active"{{ end -}}>
                     <a href="{{ .URL }}">{{- if eq .Name "Home" -}}<span class="glyphicon glyphicon-home"></span>{{- end }} {{ .Name }}</a></li>
                 {{- end -}}
-                <!--
-                <li><a href="#"><span class="glyphicon glyphicon-home"></span> home</a></li>
-                <li><a href="#">one</a></li>
-                <li><a href="#">two</a></li>
-                -->
             </ul>
         </div>
     </div>
