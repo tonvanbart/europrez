@@ -17,6 +17,7 @@ form once for each room you need (so 4 people for example could ask for 1 double
 {{< line_break >}}
 This makes it easier for our dictator to keep track of the number and type of room needed. Thank you in advance!
 
+_**Sign up closes after April 30.**_
 
 
 {{< rawhtml >}}
