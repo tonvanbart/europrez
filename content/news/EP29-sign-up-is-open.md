@@ -14,7 +14,7 @@ Parking, Sauna and Spa are included.
 Single room will be 18€ extra
 
 _**Payment:**_
-There is no early deposit. The full price will have to be paid later 14 days before arrival (meaning June 12th, 2025) to the account of the hotel.
+There is no early deposit. The full price will have to be paid no later 14 days before arrival (meaning June 12th, 2025) to the account of the hotel.
 
 _**Sign up:**_
 If you're interested in coming, please fill out the final [sign up form]({{< ref "/signup" >}}) so our dictator 
