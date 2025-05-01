@@ -17,7 +17,7 @@ _**Payment:**_
 There is no early deposit. The full price will have to be paid no later 14 days before arrival (meaning June 12th, 2025) to the account of the hotel.
 
 _**Sign up:**_
-If you're interested in coming, please fill out the final [sign up form]({{< ref "/signup" >}}) so our dictator 
+If you're interested in coming, please fill out the final sign up form so our dictator 
 can keep track of the number of rooms needed and the number of people to expect for the food.
 {{< line_break >}}
 The deadline for the transfer of names to the hotel is April 30, so be sure to fill out the form before then! ("Be there or be square"). Thanks in advance!
