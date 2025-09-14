@@ -4,7 +4,7 @@ description: "EP30 sign up"
 date: 2025-09-14T16:50:52+02:00
 draft: false
 ---
-### EP29 _PRE_-registration
+### EP30 _PRE_-registration
 Welcome to the _pre_registration for EP30, June 25-28, 2026.
 
 Please fill out the Google Form below, providing the email address with which you are subscribed 
