@@ -1,11 +1,11 @@
 ---
-title: "EP29 sign up"
-description: "EP29 sign up"
-date: 2024-02-15T22:56:54+02:00
+title: "EP30 sign up"
+description: "EP30 sign up"
+date: 2025-09-14T16:50:52+02:00
 draft: false
 ---
-### EP29 sign up
-Welcome to the final sign up for EP29, 26 to 29th of June, 2025.
+### EP29 _PRE_-registration
+Welcome to the _pre_registration for EP30, June 25-28, 2026.
 
 Please fill out the Google Form below, providing the email address with which you are subscribed 
 to the list (for easy reference).
@@ -17,14 +17,6 @@ form once for each room you need (so 4 people for example could ask for 1 double
 {{< line_break >}}
 This makes it easier for our dictator to keep track of the number and type of room needed. Thank you in advance!
 
-_**Payment**_
-{{< line_break >}}
-Note that there is no early deposit, the full amount should be paid to the hotel _no later_ than June 12th.
-For prices, see the [news]({{< ref "/news" >}}) page.
-
-_**Sign up closes after April 30.**_
-
-
 {{< rawhtml >}}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesG3ReR1PpEy36kbVlEDMry63RS0R6futdbmZdkfa8PTq0zQ/viewform?embedded=true" width="640" height="1900" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgXJITsQm-9G6lj5mbZgxgJgIu4zRDpyU6zk0GENIiFbfnEg/viewform?embedded=true" width="640" height="1900" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
 {{</ rawhtml >}}
