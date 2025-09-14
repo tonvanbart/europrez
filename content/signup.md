@@ -17,7 +17,8 @@ form once for each room you need (so 4 people for example could ask for 1 double
 {{< line_break >}}
 This makes it easier for our dictator to keep track of the number and type of room needed. Thank you in advance!
 
-The following names have already signed up (refresh the page to see the latest update):
+The following names have already signed up (_**refresh the page to see the latest update**_):
+{{<line_break>}}
 {{< rawhtml >}}
 <span id="names">(loading...)</span>
 
