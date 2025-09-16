@@ -25,7 +25,7 @@ The Smelly Socks Tour continued to Hay-on-Wye (EP21, 2016, UK); Heiligenstadt (E
 
 Sadly, again due to the pandemic there was no EP at all in 2021; in 2022 EP26 was held in Hallenberg, Germany. The 2023 EP27 edition was in Rhenen, the Netherlands.
 {{<line_break>}}
-EP28 (2024) was held in Schweigen-Rechtenbach, in the Vosges-Pfalzerwald border area.
+EP28 (2024) was held in Schweigen-Rechtenbach, in the Vosges-Pfalzerwald border area and EP29 (2025) in Regensburg in eastern Bavaria.
 
 See [News](/news) for information about upcoming events.
 
