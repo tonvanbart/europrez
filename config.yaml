@@ -20,7 +20,4 @@ menu:
     - name: Past events
       pageRef: /Past
       weight: 30
-    - name: EP30 PRE-registration
-      pageRef: /Signup
-      weight: 40
       
