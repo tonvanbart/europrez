@@ -27,6 +27,8 @@ Sadly, again due to the pandemic there was no EP at all in 2021; in 2022 EP26 wa
 {{<line_break>}}
 EP28 (2024) was held in Schweigen-Rechtenbach, in the Vosges-Pfalzerwald border area and EP29 (2025) in Regensburg in eastern Bavaria.
 
+For EP30 once again we went back to Belgium and the meetup was held in Genk, in Belgian Limburg.
+
 See [News](/news) for information about upcoming events.
 
 
